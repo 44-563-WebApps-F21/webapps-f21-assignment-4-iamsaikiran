@@ -1,0 +1,37 @@
+.stage-direction{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: black;
+    background-color: gray;
+
+}
+.stage-direction:hover{
+    background-color: skyblue;
+    color: firebrick;
+}
+.name{
+    color: black;
+    font: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+/Speech styling/
+.ALICE{
+    color: maroon;
+    font: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.Lady Hunstanton{
+    color: slateblue;
+    font: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.Mrs. Allonby{
+    color: gold;
+    font: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.GERALD{
+    color: darkolivegreen;
+    font: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
