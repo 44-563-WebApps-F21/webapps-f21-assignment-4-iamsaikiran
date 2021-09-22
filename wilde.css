@@ -15,23 +15,49 @@
     font-family: 'Times New Roman', Times, serif;
 }
 /*Speech Styling*/
-.ALICE{
-    color: maroon;
-    font: medium;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-.Lady{
+.hunstanton{
     color: slateblue;
     font: medium;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.Mrs{
+.allonby{
     color: gold;
     font: medium;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.GERALD{
-    color: darkolivegreen;
+.gerald{
+    color: tomato;
     font: medium;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.alice{
+    color:olivedrab;
+    font: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/*Table styling*/
+table{
+    border-collapse: collapse;
+    border-style: solid;
+    border-color: black;
+    width: 60%;
+}
+th{
+    border-collapse: collapse;
+    border-style: solid;
+    border-color: black;
+    text-align: center;
+}
+td {
+    border-collapse: collapse;
+    border-style: solid;
+    border-color: black;
+    text-align: left;
+}
+tr{
+    background-color: green;
+}
+tr:nth-child(even){
+    background-color: lightblue;
 }
